@@ -3,7 +3,7 @@ var router = express.Router();
 var request=require('supertest');
 var host="https://www.google.com/"
 var url="recaptcha/api/siteverify";
-var secret="6Ld8VRETAAAAANUBFt3_GnePf6PPw54qZ3_7My5E"; //generated for http://example-ä.se
+var secret="6LeFVRETAAAAAF4K1l038ycoUUqN5Ye0w6bKto71"; //generated for http://example-ä.se
 //https://drive.google.com/file/d/0B7tONtP3zP1BdkRWR3ZRTEliRWM/view?usp=sharing
 //https://drive.google.com/file/d/0B7tONtP3zP1Bd1lzS3VWTHZCUTA/view?usp=sharing
 //image of key and secret
